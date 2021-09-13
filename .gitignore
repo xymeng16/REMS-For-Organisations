@@ -26,3 +26,5 @@ members/secrets_.php
 assets/img/avatars/users/*
 
 members/test.php
+
+.idea/
