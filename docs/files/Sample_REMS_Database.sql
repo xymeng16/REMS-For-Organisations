@@ -12,6 +12,8 @@
 -- Database: `main_rems_database` represented by $MainDB in the secrets.php
 --
 
+use db_cms;
+
 DELIMITER $$
 --
 -- Procedures
